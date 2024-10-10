@@ -1,4 +1,4 @@
-# Formulaire-Liste-de-T-ches-
+# Formulaire-Liste-de-Taches-
 C'est un formulaire rapide réalisé en python qui permet de lister ces tâches quotidiennes.
 
 Pour exécuter le code : python3 todo_list.py
